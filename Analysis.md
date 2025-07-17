@@ -46,8 +46,3 @@ The distribution of wallet scores is categorized into ranges as follows:
 
 ## Conclusion
 The credit scoring model effectively differentiates between responsible and risky wallet behaviors. The insights gained from the analysis can help in understanding user behavior and improving the Aave V2 protocol's risk management strategies.
-
-## Future Work
-- Further refinement of feature engineering to enhance model accuracy.
-- Exploration of additional machine learning algorithms for better performance.
-- Continuous monitoring and updating of the model with new transaction data.
